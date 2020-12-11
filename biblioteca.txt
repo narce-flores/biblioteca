@@ -1,0 +1,84 @@
+{
+  "biblioteca": [
+    {
+      "id": 1,
+      "nombre": "mario ",
+      "apellidop": "Perez",
+      "apellidom": "Juarez",
+      "libroprestado": "AURA",
+      "autor": "Gabriel Garcia"
+    },
+    {
+      "id": 2,
+      "nombre": "Andrea",
+      "apellidop": "Cruz",
+      "apellidom": "Cruz",
+      "libroprestado": "el valle oscuro",
+      "autor": "Carlos Ruiz Safon"
+    },
+    {
+      "id": 3,
+      "nombre": "Luis",
+      "apellidop": "Lopez",
+      "apellidom": "Cruz",
+      "libroprestado": "mi viaje sin ti",
+      "autor": "Jorge Luis Borgues"
+    },
+ {
+      "id": 4,
+      "nombre": "Raquel",
+      "apellidop": "Flores",
+      "apellidom": "Toscano",
+      "libroprestado": "De la tierra a la luna",
+      "autor": "jorge Luis Borgues"
+    },
+ {
+      "id": 5,
+      "nombre": "Rosario",
+      "apellidop": "Hernandez",
+      "apellidom": "Herandez",
+      "libroprestado": "yo estuve aqui",
+      "autor": "Carlos Ruiz Safon"
+    },
+ {
+      "id": 6,
+      "nombre": "Eloy",
+      "apellidop": "Garcia",
+      "apellidom": "Sanches",
+      "libroprestado": "breve historia del tiempo",
+      "autor": "Eva garcia"
+    },
+ {
+      "id": 7,
+      "nombre": "Ana",
+      "apellidop": "Sanches",
+      "apellidom": "Socorro",
+      "libroprestado": "el principito",
+      "autor": "Eva garcia"
+    },
+ {
+      "id": 8,
+      "nombre": "Gabriela",
+      "apellidop": "Orozco",
+      "apellidom": "Piñon",
+      "libroprestado": "Matematicas",
+      "autor": "Juan rulfo"
+    },
+ {
+      "id": 9,
+      "nombre": "Teresa",
+      "apellidop": "Silvestre",
+      "apellidom": "Angeles",
+      "libroprestado": "calculo 1",
+      "autor": "Julio Cortazar"
+    },
+ {
+      "id": 10,
+      "nombre": "Edgar",
+      "apellidop": "Oruña",
+      "apellidom": "Berneda",
+      "libroprestado": "calculo 2",
+      "autor": "Baldor"
+    },
+ ]
+}
